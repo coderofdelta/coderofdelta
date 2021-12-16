@@ -4,8 +4,13 @@ Hi 👋, I'm Kingsley, an Android developer and lifelong learner that loves buil
 
 
 ## Interests
-Languages​ :​  Kotlin, Dart,
-Tools & Technologies​ :​ Git & GitHub, Android Studio, VSCode
+ - Languages​ :​  Kotlin, Dart.
+ - Tools & Technologies​ :​ Git & GitHub, Android Studio, VSCode.
+
+
+## Get in touch
+
+
 
 
 
